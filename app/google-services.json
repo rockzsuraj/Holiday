@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863427271189",
+    "project_id": "holiday-reminder-d92b4",
+    "storage_bucket": "holiday-reminder-d92b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863427271189:android:64f2a9750b01cf97254c1c",
+        "android_client_info": {
+          "package_name": "com.surajkumar.holiday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863427271189-02247puuuhilt52i8l9evktsoe4p3598.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJHH4mbS1uwrXvY1zAR-Yx-YTvIhTHJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863427271189-02247puuuhilt52i8l9evktsoe4p3598.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
